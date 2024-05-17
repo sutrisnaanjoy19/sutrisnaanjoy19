@@ -5,6 +5,8 @@
 
 - 📫 How to reach me **anjoysutrisna19@gmail.com**
 
+- 📄 Know about my experiences [https://github.com/sutrisnaanjoy19/sutrisnaanjoy19/raw/main/Resume.pdf](https://github.com/sutrisnaanjoy19/sutrisnaanjoy19/raw/main/Resume.pdf)
+
 <p align="left">
 </p>
 
