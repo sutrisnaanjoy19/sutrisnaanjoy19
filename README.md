@@ -4,8 +4,7 @@
 - 💬 Ask me about **Kubernetes, ELK, Jenkins**
 
 - 📫 How to reach me **anjoysutrisna19@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
+- 
 <p align="left">
 </p>
 
